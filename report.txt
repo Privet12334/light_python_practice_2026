@@ -1,0 +1,30 @@
+============================================================
+ОТЧЁТ О СКАНИРОВАНИИ ПАПКИ (базовый вариант)
+============================================================
+Путь: C:\Users\User\PycharmProjects\pythonProject\практика
+Дата сканирования: 2026-06-26 02:41:51
+Фильтр: все файлы
+------------------------------------------------------------
+Количество папок:          2
+Количество файлов:         16
+Общий размер всех файлов:  26709 байт
+Средний размер файла:     1669.31 байт
+------------------------------------------------------------
+СПИСОК ОТОБРАННЫХ ФАЙЛОВ:
+  C:\Users\User\PycharmProjects\pythonProject\практика\report.txt
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\__init__.py
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\__pycache__\__init__.cpython-312.pyc
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\__pycache__\cli.cpython-312.pyc
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\__pycache__\main.cpython-312.pyc
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\__pycache__\reporter.cpython-312.pyc
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\__pycache__\scanner.cpython-312.pyc
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\__pycache__\utils.cpython-312.pyc
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\cli.py
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\main.py
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\reporter.py
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\scanner.py
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\utils.py
+  C:\Users\User\PycharmProjects\pythonProject\практика\src\инструкция.txt
+  C:\Users\User\PycharmProjects\pythonProject\практика\test_report.txt
+  C:\Users\User\PycharmProjects\pythonProject\практика\журнал_студента.txt
+============================================================
